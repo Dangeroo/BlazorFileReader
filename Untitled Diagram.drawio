@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T20:14:51.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4292.2 Safari/537.36" etag="HOebtws_6m_IN1uYoAmo" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T20:15:08.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4292.2 Safari/537.36" etag="ziMKt1H3nz_YRVPEMQfF" version="13.8.1" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="2370" dy="1387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,7 +48,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0t5Xo62HnvkwBMm3_UYs-11" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="20" width="1130" height="790" as="geometry" />
+          <mxGeometry x="20" y="18" width="1130" height="790" as="geometry" />
         </mxCell>
         <mxCell id="0t5Xo62HnvkwBMm3_UYs-16" value="Purchase Invoice" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="87" width="140" height="104" as="geometry" />
